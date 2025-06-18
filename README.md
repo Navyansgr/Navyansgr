@@ -74,8 +74,8 @@ Let's connect and build something impactful!
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=blue" alt="GitHub Profile Views">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&count_private=true" alt="Your GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Navyansgr]&layout=compact&theme=vue-dark&hide_title=true&hide_border=true" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=Navyansgr &style=flat-square&color=blue" alt="GitHub Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navyansgr &show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&count_private=true" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyansgr &layout=compact&theme=vue-dark&hide_title=true&hide_border=true" alt="Top Languages">
 </div>
 
