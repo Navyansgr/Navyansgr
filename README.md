@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOh6/giphy.gif" width="100px" alt="Welcome GIF">
+  <img src=""C:\Users\DELL\Desktop\portfolio\#429 Personal-portfolio-updated\Personal-portfolio\images\user.png"" width="100px" alt="Welcome GIF">
   <h1>Hi there, I'm Navyashree N! 👋</h1>
 </div>
 
